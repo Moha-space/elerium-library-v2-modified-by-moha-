@@ -7,7 +7,6 @@ Loadstring
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Moha-space/elerium-library-v2-modified-by-moha-/refs/heads/main/Library", true))()
 ```
 
-```
 Create Window Here:
 ```lua
 local window = library:AddWindow("Name GUI", {
