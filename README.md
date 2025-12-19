@@ -4,7 +4,7 @@
 
 Loadstring
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Moha-space/elerium-v2-ui-library/refs/heads/main/Library", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Moha-space/elerium-library-v2-modified-by-moha-/refs/heads/main/Library", true))()
 ```
 
 ```
