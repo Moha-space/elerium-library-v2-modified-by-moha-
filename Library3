@@ -3,6 +3,7 @@ local ui_options = {
 	min_size = Vector2.new(400, 300),
 	toggle_key = Enum.KeyCode.RightShift,
 	can_resize = true,
+    font = Enum.Font.GothamSemibold,  
 }
 
 do
