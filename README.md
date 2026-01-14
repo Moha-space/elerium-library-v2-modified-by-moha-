@@ -6,6 +6,11 @@ Loadstring
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Moha-space/elerium-library-v2-modified-by-moha-/refs/heads/main/Library", true))()
 ```
+Loadstring 2 lib 
+```local library =
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Moha-space/elerium-library-v2-modified-by-moha-/refs/heads/main/Lib2",true))()
+```
+
 
 Create Window Here:
 ```lua
